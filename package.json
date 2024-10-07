@@ -1,7 +1,7 @@
 {
-  "name": "upload-service-api",
+  "name": "lms-service-api",
   "version": "1.0.0",
-  "description": "Upload Service API",
+  "description": "LMS Service API",
   "main": "app.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
